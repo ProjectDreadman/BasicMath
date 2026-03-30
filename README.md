@@ -8,7 +8,7 @@ this is a program that just does basic math in vb.NET
 2.  **.NET Desktop Development**
 3.  **.NET Framework 4.7.2**
 ### Installation
-1. Clone the repo: `git clone https://github.com/ProjectDreadman/RockPaperScissors.git`
+1. Clone the repo: `git clone https://github.com/ProjectDreadman/BasicMath.git`
 2. Install dependencies: there are not as of right now
 3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
 4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
